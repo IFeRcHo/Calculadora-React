@@ -1,2 +1,3 @@
-@use "ejemplo";
-@use "./global"
+@use "global";
+@use 'variables' as *;
+@use 'calculadora';

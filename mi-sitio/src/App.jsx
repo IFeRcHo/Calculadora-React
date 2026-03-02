@@ -10,7 +10,8 @@ function App() {
         Mi primer sitio en React
       </h1>
       <p>estoy aprendiendo</p>
-      <Saludo />
+      <Calculadora />
+      
     </div>
     
   )
